@@ -8,10 +8,8 @@ Nível: **01**
 ---
 **Descrição**
 
-Este projeto tem como objetivo introduzir conceitos fundamentais de automação industrial aplicados ao uso de microcontroladores como unidade de controle. Por essa razão, inicia-se em Nível 01, com exemplos simples e acessíveis, servindo como porta de entrada para estudantes, hobbystas e profissionais em formação. Com o passar do tempo, novos códigos e funcionalidades de níveis superiores serão adicionados de forma incremental, permitindo que a comunidade acompanhe a evolução do projeto desde estruturas básicas até implementações mais avançadas de lógica de controle, integração de sensores e comunicação entre dispositivos.
-O foco principal está em compreender a arquitetura de controle — ou seja, como entradas (sensores) são interpretadas, processadas pelo microcontrolador e transformadas em saídas (atuadores). Esse entendimento é essencial para criar sistemas robustos e escaláveis dentro do contexto da automação industrial.
-Além disso, a iniciativa busca diversificar a comunidade técnica através da disponibilização de códigos abertos e documentação pública, incentivando a colaboração, a troca de experiências e a adaptação das soluções para diferentes famílias de microcontroladores (Arduino, ESP32, STM32, PIC, entre outros).
-Dessa forma, o projeto não apenas promove aprendizado individual, mas também contribui para o fortalecimento coletivo do ecossistema open-source aplicado à automação industrial.
+Repositório de projetos de automação industrial, organizado por níveis de complexidade: do 01 (básico e simples) ao 03 (avançado e complexo). Este espaço serve para análise, estudo e demonstração de aplicações, com foco em Arduino e códigos em C++, mostrando na prática o que é possível desenvolver em diferentes escalas de automação.
+
 
 ---
 
