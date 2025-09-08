@@ -1,7 +1,4 @@
 link = "https://chatgpt.com/"
-
 texto = "aqui"
-
 markdown = f"[{texto}]({link})"
-
 print(markdown)
